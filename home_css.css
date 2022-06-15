@@ -1,0 +1,132 @@
+
+        #navb{
+            background-color: black;
+        }
+
+        .nav a{
+        font-family: Georgia, elegant, serif;
+        color: white ;
+        font-size: 1.3em !important;
+}
+
+        #nav_logo{
+            align-content: stretch;
+        }
+        
+        #vision{
+            background-color:black;
+            color: goldenrod;
+            height: auto;
+            padding-top: 10px; 
+            text-align: center;
+            
+        }
+        
+        
+        hr{
+            width: 50%;
+            background-color:white;
+        }
+        
+        #welcome{
+          background-color: black;
+            color: white;
+            font-size: 100%;
+            width: 60%;
+            height:auto;
+            text-align: center;
+            padding: 20px 0px;
+   
+        }
+        
+        #members{
+            background-color:rebeccapurple;
+            color: black;
+            height:auto;
+            padding:20px 0px;
+        }
+        
+        #dets-1{
+            font-family:Georgia, elegant, serif;
+            color: white;
+            font-size: 130%
+        }
+        
+        #dets-2{
+            font-family:Georgia, elegant, serif;
+            color: white;
+            font-size: 130%;
+        }
+        
+        #footer{
+            color:white;
+            padding-top: 50px;
+        }
+        
+        .footer-link{
+            color: rebeccapurple;
+            text-decoration: underline;
+        }
+        
+        .footer-link:hover{
+            color:white;
+        }
+        
+        .fa {
+          padding: 20px;
+          font-size: 30px;
+          width: 50px;
+          text-align: center;
+          text-decoration: none;
+            color: rebeccapurple;
+        }
+        
+        #icons{
+            height:50px;
+        }
+        
+        .fa:hover{
+            color: white;
+        }
+        
+          .photo-gallery {
+          color:#313437;
+          background-color:#fff;
+        }
+
+        .photo-gallery p {
+          color:#7d8285;
+        }
+
+        .photo-gallery h2 {
+          font-weight:bold;
+          margin-bottom:40px;
+          padding-top:40px;
+          color:inherit;
+        }
+
+        @media (max-width:767px) {
+          .photo-gallery h2 {
+            margin-bottom:25px;
+            padding-top:25px;
+            font-size:24px;
+          }
+        }
+
+        .photo-gallery .intro {
+          font-size:16px;
+          max-width:500px;
+          margin:0 auto 40px;
+        }
+
+        .photo-gallery .intro p {
+          margin-bottom:0;
+        }
+
+        .photo-gallery .photos {
+          padding-bottom:20px;
+        }
+
+        .photo-gallery .item {
+          padding-bottom:30px;
+        }
